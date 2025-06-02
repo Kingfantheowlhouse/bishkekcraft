@@ -12,6 +12,11 @@ from random import randint
 #     time.sleep(0.1)
 #
 # print('This is what will be displayed after')
+
+
+# КОД лучше запустит через терминал
+
+
 day = 0
 sleep = 0
 flashlight = 0
@@ -176,5 +181,3 @@ while 1:
             sleep = 1
         elif main_menu == 'sell':
             sell()
-print('lol')
-print('lol1')
