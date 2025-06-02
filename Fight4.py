@@ -177,3 +177,4 @@ while 1:
         elif main_menu == 'sell':
             sell()
 print('lol')
+print('lol1')
