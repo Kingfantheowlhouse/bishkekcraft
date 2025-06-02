@@ -176,3 +176,4 @@ while 1:
             sleep = 1
         elif main_menu == 'sell':
             sell()
+print('lol')
